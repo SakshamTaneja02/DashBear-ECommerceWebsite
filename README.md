@@ -1,1 +1,1 @@
-
+DashBear is a fully functional ECommerce website made using ReactJS, CommerceJs and Stripe. CommereceJS is used to provide the informations about the various products and Stripe is used to add the payment feature. 
